@@ -1,7 +1,7 @@
 # Public APIs [![Build Status](https://api.travis-ci.org/toddmotto/public-apis.svg)](https://travis-ci.org/toddmotto/public-apis)
 
 A collective list of free APIs for use in software and web development.
-
+stupid change
 Sponsor:
 
 <a href="https://ultimatecourses.com?utm_source=github.com"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" style="width:100%;max-width:100%"></a>
